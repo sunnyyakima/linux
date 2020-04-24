@@ -1,0 +1,1 @@
+cp somefile somefile_`date +%d%b%Y`
