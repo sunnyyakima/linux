@@ -4,3 +4,10 @@ at & atrm & at -l
 at 2:30 PM 10/21/2014
 at 2:30 PM 21.10.14
 at 4 PM + 2 days
+
+
+crontab -e   # edit
+crontab -r   # remove
+crontab -l   # list
+
+minute cannot be *
