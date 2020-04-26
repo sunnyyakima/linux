@@ -1,0 +1,5 @@
+
+add attribute to protect files: cannot change, cannot remove
+
+chattr
+lsattr
